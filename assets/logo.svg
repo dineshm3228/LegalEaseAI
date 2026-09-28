@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="700"
+     height="180"
+     viewBox="0 0 700 180">
+
+    <rect
+        width="700"
+        height="180"
+        rx="24"
+        fill="#111827"/>
+
+    <g
+        stroke="#f8fafc"
+        stroke-width="8"
+        fill="none"
+        stroke-linecap="round">
+
+        <path d="M350 35v95"/>
+
+        <path d="M270 60h160"/>
+
+        <path d="M290 60l-45 55"/>
+
+        <path d="M410 60l45 55"/>
+
+        <path d="M220 115h50"/>
+
+        <path d="M430 115h50"/>
+
+        <path d="M315 145h70"/>
+
+    </g>
+
+    <text
+        x="350"
+        y="168"
+        text-anchor="middle"
+        font-family="Georgia,serif"
+        font-size="26"
+        fill="#f8fafc">
+        LEGALEASE
+    </text>
+
+</svg>
